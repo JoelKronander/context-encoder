@@ -1,3 +1,5 @@
+## Generates a binary mask file setting saturated pixels to 0 and non/saturated to 1 for images in hl.p
+#
 import scipy.misc
 import numpy as np
 import pickle
